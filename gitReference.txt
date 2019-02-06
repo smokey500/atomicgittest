@@ -4,3 +4,7 @@ Step 3 Type git status in the command line
 Step 4 Type git
 Step 5 Type git status
 Step 6 Type git add .
+Step 7 Type git status
+Step 8 Type git commit - m "first file"
+Step 9 Type git status
+
