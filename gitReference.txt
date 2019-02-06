@@ -1,0 +1,6 @@
+Step 1 Create a folder to store project
+Step 2 Create a readme.md file
+Step 3 Type git status in the command line
+Step 4 Type git
+Step 5 Type git status
+Step 6 Type git add .
