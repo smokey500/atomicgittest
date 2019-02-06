@@ -7,4 +7,8 @@ Step 6 Type git add .
 Step 7 Type git status
 Step 8 Type git commit - m "first file"
 Step 9 Type git status
+Step 10 Go to github and create a new repository
+Step 11 Type git remote add origin https://github.com/smokey500/atomicgittest.git in the command line
+Step 12 Type git push -u origin master in the command line
+
 
